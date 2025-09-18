@@ -24,8 +24,7 @@ export SIF=<YOUR DIRECTORY TO SIF HERE>
 # Set variables
 SEED=0
 
-# Group wandb runs
-export WANDB_RUN_GROUP=$GROUP
+
 ## Run your code
 srun singularity exec \
     -B <YOUR REPOSITORY HERE> \
