@@ -26,7 +26,7 @@ parser.add_argument("--concept_set", type=str, default="data/20k.txt", help="Pat
 parser.add_argument("--batch_size", type=int, default=200, help="Batch size when running CLIP/target model")
 parser.add_argument("--device", type=str, default="cuda", help="whether to use GPU/which gpu")
 parser.add_argument("--activation_dir", type=str, default="saved_activations", help="where to save activations")
-parser.add_argument("--result_dir", type=str, default="/storage2/Broader_clip_dissect", help="where to save results")
+parser.add_argument("--result_dir", type=str, default="", help="where to save results")
 parser.add_argument("--pool_mode", type=str, default="avg", help="Aggregation function for channels, max or avg")
 parser.add_argument("--similarity_fn", type=str, default="soft_wpmi", choices=["soft_wpmi", "wpmi", "rank_reorder",
                                                                                "cos_similarity",

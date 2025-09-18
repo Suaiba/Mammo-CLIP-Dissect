@@ -104,7 +104,7 @@ def get_data(dataset_name, preprocess=None):
         data = datasets.CIFAR100(root=os.path.expanduser("~/.cache"), download=True, train=True,
                                    transform=preprocess)
     elif dataset_name == "imagenet_subsets":
-        txt_file = "/storage/imagenet_subsets.txt"
+        txt_file = "/YOUR_DIRECTORY/imagenet_subsets.txt"
         # Load the imagenet_subsets dataset
         target_mean = [0.485, 0.456, 0.406]
         target_std = [0.229, 0.224, 0.225]
@@ -114,7 +114,7 @@ def get_data(dataset_name, preprocess=None):
     elif dataset_name == "vindr":
 
         datamodule = DataModule(
-            data_config={'vindr': {'name': 'vindr', 'data_type': 'image_classification_zs', 'data_dir': '/storage', 'img_dir': 'VinDR_MammoCLIP/images_png', 'data_path': 'VinDR-data/vindr_detection_v1_folds.csv', 'text_max_length': 256}},
+            data_config={'vindr': {'name': 'vindr', 'data_type': 'image_classification_zs', 'data_dir': 'YOUR_DIRECTORY', 'img_dir': 'VinDR_MammoCLIP/images_png', 'data_path': 'VinDR-data/vindr_detection_v1_folds.csv', 'text_max_length': 256}},
             dataloader_config={'train': {'pin_memory': True, 'shuffle': True, 'drop_last': True, 'num_workers': 0, 'batch_size': 4}, 'valid': {'pin_memory': True, 'shuffle': False, 'drop_last': False, 'num_workers': 0, 'batch_size': 4}, 'test': {'pin_memory': True, 'shuffle': False, 'drop_last': False, 'num_workers': 4, 'batch_size': 6}},
             tokenizer_config={'source': 'huggingface', 'pretrained_model_name_or_path': 'emilyalsentzer/Bio_ClinicalBERT', 'cache_dir': '/ocean/projects/asc170022p/shg121/PhD/Breast-CLIP/src/codebase/outputs/huggingface/tokenizers'},
             transform_config={'train': {'Resize': {'size_h': 1520, 'size_w': 912}, 'transform': {'affine_transform_degree': 20, 'affine_translate_percent': 0.1, 'affine_scale': [0.8, 1.2], 'affine_shear': 20, 'elastic_transform_alpha': 10, 'elastic_transform_sigma': 15, 'p': 1.0}}, 'valid': {'Resize': {'size_h': 1520, 'size_w': 912}}, 'test': {'Resize': {'size_h': 1520, 'size_w': 912}}},
@@ -130,7 +130,7 @@ def get_data(dataset_name, preprocess=None):
         return dataloader
     elif dataset_name == "vindr_alt":
         datamodule = DataModule(
-            data_config={'vindr': {'name': 'vindr', 'data_type': 'image_classification_zs', 'data_dir': '/storage',
+            data_config={'vindr': {'name': 'vindr', 'data_type': 'image_classification_zs', 'data_dir': 'YOUR_DIRECTORY',
                                    'img_dir': 'VinDR_MammoCLIP/images_png',
                                    'data_path': 'VinDR-data/vindr_detection_v1_folds.csv', 'text_max_length': 256}},
             dataloader_config={
@@ -169,9 +169,9 @@ def get_data(dataset_name, preprocess=None):
     elif dataset_name == "embed_png":
         # Define the root directory containing the PNG images
         #root_dir = "/storage2/Embed_subset/EMBED_SUBSET/"
-        root_dir = "/storage2/Embed_subset/EMBED_84/"
+        root_dir = "YOUR_DIRECTORY"
         # Define the path to the CSV file containing filenames and labels
-        csv_file = "/storage2/Embed_subset/latest_implant_nonimplant_files.csv"
+        csv_file = "YOUR_DIRECTORY"
         # Define any transformations to apply to the images
         transform = transforms.Compose([
             transforms.Resize((1520, 912)),  # Resize images to 224x224
@@ -183,9 +183,9 @@ def get_data(dataset_name, preprocess=None):
     elif dataset_name == "embed_marker_84":
         # Define the root directory containing the PNG images
         #root_dir = "/storage2/Embed_subset/EMBED_SUBSET/"
-        root_dir = "/storage2/Embed_subset/EMBED_marker/"
+        root_dir = "YOUR_DIRECTORY"
         # Define the path to the CSV file containing filenames and labels
-        csv_file = "/storage2/Embed_subset/latest_marker_or_not_files.csv"
+        csv_file = "YOUR_DIRECTORY"
         # Define any transformations to apply to the images
         transform = transforms.Compose([
             transforms.Resize((1520, 912)),  # Resize images to 224x224
@@ -197,9 +197,9 @@ def get_data(dataset_name, preprocess=None):
     elif dataset_name == "embed_implant":
         # Define the root directory containing the PNG images
         #root_dir = "/storage2/Embed_subset/EMBED_SUBSET/"
-        root_dir = "/storage2/Embed_subset/EMBED_84/"
+        root_dir = "YOUR_DIRECTORY"
         # Define the path to the CSV file containing filenames and labels
-        csv_file = "/storage2/Embed_subset/latest_only_implant_files.csv"
+        csv_file = "YOUR_DIRECTORY"
         # Define any transformations to apply to the images
         transform = transforms.Compose([
             transforms.Resize((1520, 912)),  # Resize images to 224x224
@@ -211,9 +211,9 @@ def get_data(dataset_name, preprocess=None):
     elif dataset_name == "embed_marker_only":
         # Define the root directory containing the PNG images
         #root_dir = "/storage2/Embed_subset/EMBED_SUBSET/"
-        root_dir = "/storage2/Embed_subset/EMBED_marker/"
+        root_dir = "YOUR_DIRECTORY"
         # Define the path to the CSV file containing filenames and labels
-        csv_file = "/storage2/Embed_subset/latest_only_marker_files.csv"
+        csv_file = "YOUR_DIRECTORY"
         # Define any transformations to apply to the images
         transform = transforms.Compose([
             transforms.Resize((1520, 912)),  # Resize images to 224x224
@@ -226,9 +226,9 @@ def get_data(dataset_name, preprocess=None):
     elif dataset_name == "embed_non_implant":
         # Define the root directory containing the PNG images
         #root_dir = "/storage2/Embed_subset/EMBED_SUBSET/"
-        root_dir = "/storage2/Embed_subset/EMBED_84/"
+        root_dir = "YOUR_DIRECTORY"
         # Define the path to the CSV file containing filenames and labels
-        csv_file = "/storage2/Embed_subset/latest_only_nonimplant_files.csv"
+        csv_file = "YOUR_DIRECTORY"
         # Define any transformations to apply to the images
         transform = transforms.Compose([
             transforms.Resize((1520, 912)),  # Resize images to 224x224
@@ -239,9 +239,9 @@ def get_data(dataset_name, preprocess=None):
 
     elif dataset_name == "embed_non_implant_100":
         # Define the root directory containing the PNG images
-        root_dir = "/storage2/EMBED_NON_IMPLANTS/EMBED_NO_IMPLANTS_100"
+        root_dir = "YOUR_DIRECTORY"
         # Define the path to the CSV file containing filenames and labels
-        csv_file = "/storage2/EMBED_NON_IMPLANTS/only_nonimplant_100_files.csv"
+        csv_file = "YOUR_DIRECTORY"
         # Define any transformations to apply to the images
         transform = transforms.Compose([
             transforms.Resize((1520, 912)),  # Resize images to 224x224
@@ -257,9 +257,9 @@ def get_data(dataset_name, preprocess=None):
         ])
 
         dataset = CSAWDataset(
-            root_folder="/storage/",
-            annotation_csv="/storage/csaw_cc_data/CSAW_final_balanced.csv",
-            imagefolder_path="/storage2/csaw/csaw_mammo_clip_alt_images",
+            root_folder="YOUR_DIRECTORY",
+            annotation_csv="YOUR_DIRECTORY",
+            imagefolder_path="YOUR_DIRECTORY",
             split="test",  # change if needed
             transform_config=transform,
         )
@@ -280,9 +280,9 @@ def get_data(dataset_name, preprocess=None):
         ])
 
         dataset = CSAWDataset_all_splits(
-            root_folder="/storage/",
-            annotation_csv="/storage/csaw_cc_data/CSAW_final_balanced.csv",
-            imagefolder_path="/storage2/csaw/csaw_mammo_clip_alt_images",
+            root_folder="YOUR_DIRECTORY",
+            annotation_csv="YOUR_DIRECTORY",
+            imagefolder_path="YOUR_DIRECTORY",
             transform_config=transform,
         )
 
