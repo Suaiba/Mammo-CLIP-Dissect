@@ -1,0 +1,7 @@
+vindr:
+  name: "vindr"
+  data_type: "image_classification_zs"
+  data_dir: "${base.data_dir}"
+  img_dir: "VinDR_mammoclip/images_png"
+  data_path: "Vindr_fold0/vindr_detection_v1_folds.csv"
+  text_max_length: ${base.text_max_length}

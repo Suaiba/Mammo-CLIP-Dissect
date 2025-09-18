@@ -1,0 +1,763 @@
+Australian terrier
+BI-RADS
+BI-RADS density A
+BI-RADS density B
+BI-RADS density C
+BI-RADS density D
+Beagle
+Bi-RADS A
+Bi-RADS B
+Bi-RADS C
+Bi-RADS D
+Border terrier
+Dingo
+English foxhound
+English springer
+French horn
+Golden retriever
+Old English sheepdog
+Rhodesian ridgeback
+Samoyed
+Shih-Tzu
+abnormal lymph node
+accessory
+agricultural
+aircraft
+airline
+algae
+almost entirely fat
+aluminum
+amethyst
+amourphous
+amourphous calcification
+angus
+anterior
+anterior depth
+antique
+apples
+appropriate action should be taken
+arabidopsis
+architectural
+architectural distortion
+asphalt
+associated biopsy clip
+associated biopsy marker
+asymmetric skin thickening
+asymmetrical increased density
+asymmetrically enlarged
+asymmetrically enlarged lymph node
+asymmetry
+axe
+axilla
+axillary
+axillary adenopathy
+axillary lymph nodes
+axillary tail
+axle
+badges
+bailey
+baking
+barbie
+barcode
+bark
+bee
+beetle
+beige
+benign
+benign calcification
+benign diffusely scattered
+benign diffusely scattered punctate calcification
+benign dystrophic calcification
+benign eggshell calcification
+benign etiology
+benign findings
+benign mass
+benign popcorn calcification
+benign rim calcification
+benign rod calcification
+benign rod-like calcification
+benign secretory calcification
+benign skin calcification
+benign suture calcification
+benign vascular calcification
+bicycles
+bilateral
+biopsy
+biopsy clip
+biopsy marker
+biopsy should be considered
+birds
+black
+blackboard
+blanca
+blinds
+bloodhound
+blue
+boat
+boats
+boxes
+brass
+breast
+broccoli
+brown
+bubbles
+bulldogs
+bunny
+burger
+burgundy
+butterfly
+buttons
+cabbage
+calcifications in a mass
+calcifications outside of a mass
+camel
+cancer
+candle
+candles
+capsules
+carbohydrates
+carbon
+carbonate
+carp
+carpets
+carriage
+cartridges
+casserole
+cassette
+cassette player
+cc view
+cement
+ceramic
+chain saw
+chairs
+charcoal
+checker
+cherries
+chest wall
+chest wall invasion
+chick
+chunk
+church
+cinnamon
+circumscribed margin
+circumscribed mass
+citrus
+clip
+closeouts
+closet
+cloth
+clustered calcification
+clustered microcysts
+coarse heterogen
+coarse heterogenous calcifications
+collagen
+colorful
+combines
+comma
+complicated cyst
+components
+consumables
+containers
+contour of breast
+coral
+corn
+cows
+coyote
+cranberry
+crib
+crimson
+crochet
+cruises
+cub
+cushion
+cyan
+cylinders
+cyst
+daisy
+dark
+darkness
+decorations
+dense
+densities
+density
+density A
+density B
+density C
+density D
+depth
+developing asymmetry
+diffuse calcifications
+diffuse distribution
+diffuse skin thickening
+diffusely scattered punctate calcification
+distance from the nipple
+distortion
+dog
+doll
+dolls
+door
+doors
+dots
+dotted
+double lumen
+dragonfly
+drawers
+drosophila
+drought
+dystrophic
+dystrophic calcification
+ecosystems
+eggshell calcification
+elk
+embroidered
+emerald
+enamel
+enlarged lymph node
+equal density
+equine
+escherichia
+evaluation
+extremely
+extremely dense
+extremely high density
+fabric
+fat necrosis
+fat-containing
+fatty
+feather
+female
+fence
+fiberglass
+fibers
+fibroglandular
+fiery
+figs
+finch
+fine linear branching
+fine linear branching calcifications
+fine linear calcifications
+fine pleomorphic calcifications
+fireplaces
+fish
+flamingo
+flashlight
+flies
+fluctuating
+fluctuating masses
+fluffy
+fluorescence
+fluorescent
+flyers
+foam
+focal asymmetry
+focal bulge
+fog
+foods
+foreign bodies
+foreign body including implants
+foreign object
+fossil
+freight
+frog
+fruits
+fur
+furniture
+gallon
+garbage truck
+gas pump
+gases
+geometric
+gland
+glazed
+global asymmetry
+goblet
+golf ball
+gong
+gown
+gradient
+grain
+grains
+graphite
+gravel
+green
+grey
+grid
+grille
+grouped calcification
+guitar
+hairy
+hamartoma
+hardwood
+hay
+helmets
+hematoma
+hen
+heterogeneously
+heterogeneously dense
+high density
+high density mass
+high suspicion for malignancy
+high-density mass low-density mass
+highly suggestive of malignancy
+hog
+honey
+hoodia
+horticulture
+hotel
+hound
+huskies
+hydro
+hyperdense
+hyperdense lymph node
+illumination
+implant
+increased global asymmetry
+increased lymph node
+increased nipple retraction
+increasing global asymmetry
+increasing lymph node
+increasing skin retraction
+indeterminant asymmetry
+indeterminant calcification
+indeterminant clustered calcification
+indeterminant focal asymmetry
+indeterminant grouped calcification
+indeterminant linear calcification
+indeterminant margin
+indeterminant mass
+indeterminant new calcification
+indeterminant segmental calcification
+indistinct margin
+indistinct mass
+infant
+infants
+inner
+inner left breast
+inner right breast
+insects
+instrument
+intact silicone
+intermediate density
+intraductal calcifications
+intramammary lymph nodes
+irregular mass
+jaguar
+jelly
+joystick
+kart
+kernel
+keyhole sign (teardrop, noose)
+kiwi
+known biopsy proven
+known biopsy-proven
+known biopsy-proven malignancy
+lace
+lama
+laminate
+larvae
+laterality
+lattice
+leather
+leds
+left
+left axilla
+left axillary tail
+left breast
+lemon
+lexmark
+lilac
+limestone
+linear calcification
+linear calcifications
+linear distribution
+linen
+lines
+linguine sign
+lobulated margin
+lobulated mass
+location
+low density
+low density fluctuating masses
+low density masses
+low suspicion for malignancy
+lower
+lower inner left breast
+lower inner right breast
+lower lateral quadrant
+lower left breast
+lower medial quadrant
+lower outer left breast
+lower outer right breast
+lower right breast
+lubricants
+lyme
+lymph
+lymph node
+magenta
+mailbox
+malignancy
+mammary
+mammary gland
+mammographic density
+mammographic density A
+mammographic density B
+mammographic density C
+mammographic density D
+mandarin
+marble
+mare
+margin
+mariner
+marker
+marlin
+maroon
+mask
+mass
+mass density
+mass in or on skin
+mass margin
+meat
+medium density mass
+membrane
+mesh
+microbiology
+microlobulated margin
+microlobulated mass
+mid
+mid depth
+milk of calcium
+mixtures
+mlo view
+moderate suspicion for malignancy
+monarch
+monitors
+monkey
+monkeys
+motorcycle
+multiple bilateral oval fluctuating masses
+multiple bilateral oval masses
+multiple bilateral oval waxing and waning masses
+muscle
+mushroom
+mushrooms
+nature
+navy
+need additional imaging evaluation
+nemo
+net
+new calcification
+new global asymmetry
+new mass
+new nipple retraction
+new skin retraction
+new skin thickening
+nipple
+nipple retraction
+no architectural distortion
+no finding
+no mammographic evidence of malignancy
+no mass
+no probability of malignancy
+no suspicious findings
+no suspicious mass
+no suspicious mass identified
+no suspicious mass seen
+no suspicious masses
+noir
+non-mammary tissue
+normal breast examination
+normal lymph node
+notebooks
+obscured margin
+obscured mass
+oceanic
+offshore
+operative scar
+orange
+other implant material
+other lumen
+outer
+outer left breast
+outer right breast
+overstock
+owl
+pallet
+panda
+paper
+parachute
+particles
+pastel
+pasture
+pattern
+patterns
+paved
+paving
+peck
+pectoral muscle
+pectoralis muscle
+pectoralis muscle invasion
+pendants
+penguins
+peri-implant fluid
+periareolar
+petrol
+picks
+pigeon
+pike
+pink
+pinkworld
+plane
+plants
+plaque
+polar
+popcorn calcification
+popcorn-like
+possible architectural distortion
+possible asymmetry
+possible calcification
+possible clustered calcification
+possible focal asymmetry
+possible grouped calcification
+possible linear calcification
+possible mass
+possible new calcification
+possible nipple retraction
+possible segmental calcification
+post-therapy skin thickening
+posterior
+posterior depth
+postoperative collections
+postoperative seroma or hematoma
+postoperative seroma/hematoma
+postsurgical fluid collection
+probably benign
+produce
+pumpkin
+puppies
+purple
+puzzles
+quadrant and clock face
+quartz
+questionable architectural distortion
+questionable asymmetry
+questionable calcification
+questionable clustered calcification
+questionable focal asymmetry
+questionable grouped calcification
+questionable linear calcification
+questionable mass
+questionable new calcification
+questionable segmental calcification
+questioned architectural distortion
+questioned calcification
+questioned clustered calcification
+questioned grouped calcification
+questioned linear calcification
+questioned mass
+questioned new calcification
+questioned nipple retraction
+questioned segmental calcification
+quilting
+quilts
+radial folds
+railways
+raspberry
+recipe
+recurrent lesions
+red
+refrigeration
+refrigerator
+regional calcifications
+regional distribution
+rental
+reptiles
+resin
+retraction
+retroglandular
+retropectoral
+rhino
+ribbon
+right
+right axilla
+right axillary tail
+right breast
+rim-like calcification
+robin
+rod calcification
+rod-like
+rod-like calcification
+round and oval masses
+round-oval
+rulers
+ruptured silicone
+rv
+saline
+salmon
+sands
+satin
+scattered areas of fibroglandular density
+scattered fibroglandular densities
+scooters
+scoreboard
+sculptures
+seals
+secretory calcification
+sediment
+sediments
+segmental distribution
+segments
+shark
+shell
+shellfish
+shoe
+short interval follow-up suggested
+siberian
+siding
+silicone
+simple cyst
+single lumen
+sinks
+skin
+skin calcification
+skin invasion
+skin lesion
+skin retraction
+skin thickening
+skull
+small masses
+snowboard
+snowy
+socks
+solitary dilated duct
+soup
+spacecraft
+sparrow
+speakers
+specimen
+specimens
+speculated margin
+spiculated mass
+spider
+spiral
+sponge
+spray
+squash
+stable benign mass
+stable calcification
+stable mass
+stocking
+stockings
+strands
+straw
+stripe
+striped
+stripes
+subareolar
+subareolar left breast
+subareolar right breast
+subcapsular line
+submarine
+substrates
+sulfur
+sunset
+supermarket
+suspicious
+suspicious architectural distortion
+suspicious asymetry
+suspicious calcification
+suspicious clustered calcification
+suspicious focal asymmetry
+suspicious for malignancy
+suspicious grouped calcification
+suspicious linear calcification
+suspicious lymph node
+suspicious lymph nodes
+suspicious mass
+suspicious masses
+suspicious new calcification
+suspicious segmental calcification
+suture
+suture calcification
+swan
+sweater
+sweep
+sword
+symmetrical and no masses
+table
+tables
+tail
+tapestry
+teak
+teal
+template
+tench
+textile
+texture
+textured
+textures
+there are no suspicious findings
+there is evidence of malignancy
+thick vessels
+thistle
+thread
+tigers
+tile
+tiles
+tissue
+toddler
+toilet
+topographic
+towels
+trabecular thickening
+tractors
+trees
+trolley
+trout
+turbine
+turf
+turquoise
+tweed
+ultraviolet
+unilateral
+unilateral skin thickening
+upper
+upper inner left breast
+upper inner right breast
+upper lateral quadrant
+upper left breast
+upper medial quadrant
+upper outer left breast
+upper outer right breast
+upper right breast
+vascular abnormalities
+vascular calcification
+vase
+vases
+vegetable
+vegetables
+vegetation
+vehicles
+vessels
+violin
+wagon
+waning
+water droplets
+waxing
+waxing and waning
+waxing and waning masses
+weapons
+weaving
+web
+weights
+whales
+white
+wicker
+wildlife
+wood
+wool
+workstations
+woven
+wraps
+yarn
+yellow
+zebra
