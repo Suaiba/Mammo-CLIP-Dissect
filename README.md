@@ -58,7 +58,10 @@ Finetune/MammoCLIP.sh
 ```
 This was run on ROC-M based GPU cluster which uses a SLURM based system. Please modify this file as needed, with special focus on the capitalized folders named **YOUR REPOSITORY HERE**
 
+To fine-tune Mammo-CLIP based classifier for one of the four tasks as described in our paper, set the field --inference-mode to "n" signifying you wish to train and not just run inference. To select task on which to finetune change the field --label.
+
 ## Evaluating the finetuned Mammo-CLIP classifier
+To evaluate the performance of a finetuned classifier --inference-mode to "load" to load from your own repository with fine-tuned model checkpoints.
 ## Acknowledgements  
 
 This repository builds on and extends ideas and code from several key projects:  
