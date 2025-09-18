@@ -11,7 +11,15 @@ This repository contains the concept set, code, scripts, and instructions to rep
 This repository is currently **under active development**.  
 Documentation, examples, and additional details will be added soon.  
 Please check back for updates or open an issue if you have questions.  
-
+## Concept set
+We make the 763 unique concept we used in our concept set available at 
+```
+Concepts/Specific_concepts_sorted.txt
+```
+The categorised concepts are available at 
+```
+Concepts/Extended_Breast_text_categories.xlsx
+```
 ## Features  
 
 - Concept-based dissection of mammography models at different layers  
