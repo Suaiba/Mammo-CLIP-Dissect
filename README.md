@@ -50,7 +50,13 @@ The following setups can be run by uncommenting the relevant lines
 - G-Mammo-CLIP Dissect: Line 3-6 under "#BREAST CLIP" commenting out the field --Breast_clip_chkpt. This is to use ImageNet pre-trained checkpoints for the MammoCLIP dissector and target models.
 - M-Mammo-CLIP Dissect: Line 3-6 under "#BREAST CLIP" WITH out the field --Breast_clip_chkpt included, this loads the Mammography pre-trained checkpoint for the MammoCLIP dissector and target models.
 - C-Mammo-CLIP Dissect: Lines 16-33 cover the four variants of  C-Mammo-CLIP Dissect corresponding to the four downstream classification tasks. These have the additional field finetuned_img_classifier_chkpt to input the finetuned classifier checkpoint. Uncomment and run for the task of your choice as needed!
+- 
 ## Fine-tuning the Mammo-CLIP classifier
+To finetune the Mammo-CLIP classifier we provide a shell file called 
+```
+Finetune/MammoCLIP.sh
+```
+This was run on ROC-M based GPU cluster which uses a SLURM based system. Please modify this file as needed, with special focus on the capitalized folders named **YOUR REPOSITORY HERE**
 
 ## Evaluating the finetuned Mammo-CLIP classifier
 ## Acknowledgements  
