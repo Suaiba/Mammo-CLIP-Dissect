@@ -70,6 +70,9 @@ To fine-tune Mammo-CLIP based classifier for one of the four tasks as described 
 
 ## Evaluating the finetuned Mammo-CLIP classifier
 To evaluate the performance of a finetuned classifier --inference-mode to "load" to load from your own repository with fine-tuned model checkpoints.
+## Plots
+Process the  Mammo-CLIP Dissect output csvs using src/Plots/process_results_csvs.ipynb. This adds top similarity, top concept, mean similarity and whether thresholds were met for each entry.
+To reproduce Figure 4, use src/Plots/Figure4.ipynb.
 ## Acknowledgements  
 
 This repository builds on and extends ideas and code from several key projects:  
