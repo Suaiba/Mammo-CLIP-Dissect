@@ -79,6 +79,15 @@ Shield: [![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
 This work is licensed under a
 [Creative Commons Attribution-NonCommercial 4.0 International License][cc-by-nc].
 
+You may use, share, and adapt this work for non-commercial research and educational purposes only, provided that you:
+
+* Give appropriate credit to the original authors.
+* Indicate if changes were made.
+* Distribute any derivative works under the same license (CC BY-NC-SA 4.0).
+* Commercial use, including model deployment, integration into for-profit products or services, or sale of derivatives, is strictly prohibited.
+
+
+
 [![CC BY-NC 4.0][cc-by-nc-image]][cc-by-nc]
 
 [cc-by-nc]: https://creativecommons.org/licenses/by-nc/4.0/
