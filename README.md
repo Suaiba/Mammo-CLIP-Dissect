@@ -6,11 +6,14 @@ This repository contains the concept set, code, scripts, and instructions to rep
 
 > *Mammo-CLIP Dissect: A Framework for Analysing Mammography Concepts in Vision-Language Models.
 
+<!--
 ## 🚧 Work in Progress  
 
 This repository is currently **under active development**.  
 Documentation, examples, and additional details will be added soon.  
-Please check back for updates or open an issue if you have questions.  
+Please check back for updates or open an issue if you have questions.
+--> 
+Please open an issue if you have questions!
 ## Concept set
 We make the 763 unique concept we used in our concept set available at 
 ```
